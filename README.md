@@ -1,12 +1,12 @@
 <div align="center">
 
-# ![Awesome Ringtone](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-banner.png)
+# ![Awesome Ringtone](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-banner.png)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LIGMATV/awesome-ringtone/lint.yml?style=flat-square)](https://github.com/LIGMATV/awesome-ringtone/actions/workflows/lint.yml)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/w3teal/awesome-ringtone/lint.yml?style=flat-square)](https://github.com/w3teal/awesome-ringtone/actions/workflows/lint.yml)
 [![NPM Version](https://img.shields.io/npm/v/ringtones?style=flat-square&logo=npm&labelColor=red&color=black)](https://www.npmjs.com/package/ringtones)
 [![NPM Downloads](https://img.shields.io/npm/dw/ringtones?style=flat-square&logo=npm&labelColor=red&color=black)](#npm)
-[![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=flat-square&label=Download%20Zip)](https://github.com/LIGMATV/Awesome-Ringtone/archive/refs/heads/main.zip)
+[![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/ringtones?style=flat-square&label=Download%20Zip)](https://github.com/w3teal/Awesome-Ringtone/archive/refs/heads/main.zip)
 
 📞📲🎶 An awesome & curated list of ringtones from well-known brands such as Apple, LG, Samsung, etc.
 
@@ -42,7 +42,7 @@ With [Node.js](https://nodejs.org/) installed, you can download the repository w
 
 ##### `git clone`
 ```
-git clone https://github.com/LIGMATV/awesome-ringtone.git
+git clone https://github.com/w3teal/awesome-ringtone.git
 cd awesome-ringtone
 ```
 
@@ -51,11 +51,6 @@ cd awesome-ringtone
 npm install ringtones
 ```
 You can find the ringtone files at `node_modules/ringtones`. 
-
-Also, you can run scripts for simply open ringtones in browser from the output directory.  
-Example: `npm run open:android:2016`. You can find the scripts from 
-[`package.json:L6`](https://github.com/LIGMATV/awesome-ringtone/blob/main/package.json#L6).  
-Note: This usage needs [`open-cli`](https://www.npmjs.com/package/open-cli) package.
 
 #### CDN
 
@@ -71,14 +66,14 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 ---
 
-### [Apple](https://github.com/LIGMATV/awesome-ringtone/tree/main/Apple)
+### [Apple](https://github.com/w3teal/awesome-ringtone/tree/main/Apple)
 - [2007 - Marimba](https://cdn.jsdelivr.net/npm/ringtones/Apple/2007%20-%20Marimba.mp3)
 - [2010 - Opening](https://cdn.jsdelivr.net/npm/ringtones/Apple/2010%20-%20Opening.mp3)
 - [2017 - Reflection](https://cdn.jsdelivr.net/npm/ringtones/Apple/2017%20-%20Reflection.mp3)
 
 **Length : 00:00:52**
 
-### [Google](https://github.com/LIGMATV/awesome-ringtone/tree/main/Google%20Pixel)
+### [Google](https://github.com/w3teal/awesome-ringtone/tree/main/Google%20Pixel)
 - [2016 - Zen](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2016%20-%20Zen.mp3)
 - [2017 - The Big Adventure](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2017%20-%20The%20Big%20Adventure.mp3)
 - [2021 - Your New Adventure](https://cdn.jsdelivr.net/npm/ringtones/Google%20Pixel/2021%20-%20Your%20New%20Adventure.mp3)
@@ -90,7 +85,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:00:21**
 
-### [LG](https://github.com/LIGMATV/awesome-ringtone/tree/main/LG)
+### [LG](https://github.com/w3teal/awesome-ringtone/tree/main/LG)
 - [2012 - Life's Good](https://cdn.jsdelivr.net/npm/ringtones/LG/2012%20-%20Life's%20Good.mp3)
 - [2013 - Life's Good Music](https://cdn.jsdelivr.net/npm/ringtones/LG/2013%20-%20Life's%20Good%20Music.mp3)
 - [2013 - Life's Good](https://cdn.jsdelivr.net/npm/ringtones/LG/2013%20-%20Life's%20Good.mp3)
@@ -109,7 +104,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:21:13**
 
-### [Oppo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Oppo)
+### [Oppo](https://github.com/w3teal/awesome-ringtone/tree/main/Oppo)
 - [2013 - Enjoy](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2013%20-%20Enjoy.mp3)
 - [2016 - Future](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2016%20-%20Future.mp3)
 - [2018 - Colorful Life](https://cdn.jsdelivr.net/npm/ringtones/Oppo/2018%20-%20Colorful%20Life.mp3)
@@ -123,7 +118,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:00:23**
 
-### [Samsung](https://github.com/LIGMATV/awesome-ringtone/tree/main/Samsung)
+### [Samsung](https://github.com/w3teal/awesome-ringtone/tree/main/Samsung)
 
 <div align="center">
 
@@ -131,10 +126,10 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 |  |  |  |  |
 |--|--|--|--|
-| [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2011.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2012.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2012%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2013-14.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2013-14%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2015.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon.mp3) |
-| [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2016.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2017.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2017%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2018.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2018%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2019.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2019%20-%20Over%20the%20Horizon.mp3) | 
-| [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2020.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2020%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2021.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2022.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2023.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20the%20Horizon.mp3) | 
-| [![cover](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-ringtone/_media/over-the-horizon-2024.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3) | |
+| [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2011.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2011%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2012.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2012%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2013-14.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2013-14%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2015.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2015%20-%20Over%20the%20Horizon.mp3) |
+| [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2016.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2016%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2017.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2017%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2018.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2018%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2019.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2019%20-%20Over%20the%20Horizon.mp3) | 
+| [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2020.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2020%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2021.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2021%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2022.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2022%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2023.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2023%20-%20Over%20the%20Horizon.mp3) | 
+| [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2024.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2024%20-%20Over%20the%20Horizon.mp3) | [![cover](https://cdn.jsdelivr.net/gh/w3teal/awesome-ringtone/_media/over-the-horizon-2025.png)](https://cdn.jsdelivr.net/npm/ringtones/Samsung/2025%20-%20Over%20the%20Horizon.mp3) | |
 
 </div>
 
@@ -167,10 +162,11 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 - 2022 - Over the Horizon
 - 2023 - Over the Horizon
 - 2024 - Over the Horizon
+- 2025 - Over the Horizon
 
 **Length : 01:12:37**
 
-### [Sony](https://github.com/LIGMATV/awesome-ringtone/tree/main/Sony)
+### [Sony](https://github.com/w3teal/awesome-ringtone/tree/main/Sony)
 - [2013 - Original](https://cdn.jsdelivr.net/npm/ringtones/Sony/2013%20-%20Original.mp3)
 - [2014 - Default](https://cdn.jsdelivr.net/npm/ringtones/Sony/2014%20-%20Default.mp3)
 - [2015 - Default](https://cdn.jsdelivr.net/npm/ringtones/Sony/2015%20-%20Default.mp3)
@@ -179,7 +175,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:01:18**
 
-### [Vivo](https://github.com/LIGMATV/awesome-ringtone/tree/main/Vivo)
+### [Vivo](https://github.com/w3teal/awesome-ringtone/tree/main/Vivo)
 - [2011 - Lovely Xylophone](https://cdn.jsdelivr.net/npm/ringtones/Vivo/2011%20-%20Lovely%20Xylophone.mp3)
 - [2013 - Sunrise View](https://cdn.jsdelivr.net/npm/ringtones/Vivo/2013%20-%20Sunrise%20View.mp3)
 - [2014 - Sunrise View](https://cdn.jsdelivr.net/npm/ringtones/Vivo/2014%20-%20Sunrise%20View.mp3)
@@ -189,7 +185,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 
 **Length : 00:02:47**
 
-### [Xiaomi](https://github.com/LIGMATV/awesome-ringtone/tree/main/Xiaomi)
+### [Xiaomi](https://github.com/w3teal/awesome-ringtone/tree/main/Xiaomi)
 - [2013 - Mi](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2013%20-%20Mi.mp3)
 - [2015 - Mi](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2015%20-%20Mi.mp3)
 - [2016 - Mi](https://cdn.jsdelivr.net/npm/ringtones/Xiaomi/2016%20-%20Mi.mp3)
@@ -235,6 +231,7 @@ https://cdn.jsdelivr.net/npm/ringtones/:brand/:name.mp3
 - [Billie Thompson](https://github.com/PurpleBooth/a-good-readme-template) - For the inspiration of make good README.md.
 - [chiruyudo](https://www.youtube.com/@chiruyudophones) - For giving high quality ringtones.
 - [cobalt by imput](https://github.com/imputnet/cobalt) - To retrieve the audio version of a video format resource.
+- [Namu Wiki](https://en.namu.wiki/w/Over%20the%20Horizon) - For an comprehensive article for explaining about the Samsung's Brand Sound.
 - [Samsung Members Community](https://r1.community.samsung.com/t5/indonesia/ct-p/id) - For giving more information about Samsung's ringtones, especially Indonesia region.
 
 
@@ -245,7 +242,7 @@ community. Copyright is held by the brand or creator, see the
 [LICENSE.md](LICENSE.md) file for details. Consider to give the full 
 copyright in things that use this.
 
-© 2025 Apple Inc., Google LLC, LG Electronics Inc., BBK Electronics Corp. 
+© 2026 Apple Inc., Google LLC, LG Electronics Inc., BBK Electronics Corp. 
 Ltd., Samsung Electronics Co. Ltd., Sony Electronics Inc., Xiaomi Corp.
 
 
