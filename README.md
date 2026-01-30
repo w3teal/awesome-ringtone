@@ -1,3 +1,7 @@
+> # This repository has been moved!
+> 
+> See this repository on [SourceHut](https://sourcehut.org/): https://git.sr.ht/~w3teal/awesome-ringtone
+
 <div align="center">
 
 # ![Awesome Ringtone](/_media/over-the-horizon-banner.png)
